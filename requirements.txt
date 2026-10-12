@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+spacy
+textblob
+vaderSentiment
+transformers
+rank_bm25
+streamlit
+flask
+flask_sqlalchemy
+openai
+requests
+fpdf
+tabulate
