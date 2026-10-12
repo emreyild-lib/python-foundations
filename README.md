@@ -1,14 +1,14 @@
 # Python Foundations
 
-Selected exercises from the Level 3 Practical AI for Business programme (iMeta / WMCA, Aug–Oct 2025), plus ongoing practice. Grouped by skill rather than by week.
+Selected exercises from the Level 3 Practical AI for Business programme (iMeta / WMCA, Aug–Oct 2025), plus ongoing practice.
 
-| Folder | What it shows |
+| Skill | Files |
 |---|---|
-| `01_data_cleaning` | pandas: loading, cleaning and validating sales/retail CSVs; aggregation and summary tables |
-| `02_automation` | Core Python: functions, loops, dates, CSV output — a sales calculator and a small café stock/profit/rota automation |
-| `03_machine_learning` | scikit-learn basics: confusion matrix and evaluation; sentiment analysis on employee reviews |
-| `04_nlp` | Text cleaning (NLTK, spaCy), summarisation (transformers), emotion detection, review insight extraction |
-| `05_apps` | Small apps: document Q&A with BM25 retrieval (Streamlit), meeting-minutes generator (OpenAI API), media-bias analyser (NewsAPI), Flask app |
+| **Data cleaning & analysis** (pandas) | `sales_data_exploration.py` · `retail_clean.py` · `aggregation_summarisation.py` |
+| **Automation** (core Python, dates, CSV output) | `mini_sales_calculator.py` · `small_cafe_automation.py` · `datetime_app.py` |
+| **Machine learning** (scikit-learn) | `confusion_matrix_code.py` · `employee_sentiment_analysis.py` |
+| **NLP** (NLTK, spaCy, transformers) | `nlp_text_cleaning_steps.py` · `text_summarization.py` · `emotion_detection.py` · `review_insight_extractor.py` |
+| **Apps** (Streamlit, Flask, APIs) | `document_qa_bm25.py` – document Q&A with BM25 retrieval · `meeting_minutes_app.py` – meeting-minutes generator (OpenAI API) · `media_bias_analyzer.py` – headline analysis (NewsAPI) · `flask_app.py` |
 
 ## Notes
 - Data files are not included; scripts expect a CSV path or upload.
